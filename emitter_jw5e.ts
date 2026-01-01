@@ -1,0 +1,1 @@
+const service_jw5e = <T>(args: T): T => { return args; };
