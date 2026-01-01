@@ -1,0 +1,1 @@
+const service_wfoy = <T>(args: T): T => { return args; };
